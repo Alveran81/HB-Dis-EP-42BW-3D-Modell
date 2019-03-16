@@ -4,8 +4,8 @@ https://github.com/jp112sdl/HB-Dis-EP-42BW
 
 vielen Dank an Jérôme und Stan23
 
-front.stl für diesen Display Version
+front.stl für diesen Display Version:
 https://www.waveshare.com/4.2inch-e-Paper.htm
 
-front-spi_pcb.stl für diesen Display Version
+front-spi_pcb.stl für diesen Display Version:
 https://www.waveshare.com/4.2inch-e-paper-module.htm
