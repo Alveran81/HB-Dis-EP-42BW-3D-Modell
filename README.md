@@ -1,5 +1,9 @@
 # HB-Dis-EP-42BW-3D-Modell
 
+https://github.com/jp112sdl/HB-Dis-EP-42BW
+
+vielen Dank an Jérôme und Stan23
+
 front.stl für diesen Display Version
 https://www.waveshare.com/4.2inch-e-Paper.htm
 
